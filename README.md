@@ -1,7 +1,7 @@
 # Welcome👋
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 </div>
 
 ## About Me:
@@ -24,7 +24,5 @@ ps: Jupiter notebooks are all in Python3.
 
 ### After Deadline:
 
-<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" />
 
-
- 
