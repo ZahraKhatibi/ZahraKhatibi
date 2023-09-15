@@ -7,12 +7,12 @@
 ## About Me:
 
 
-#### - I am a final-year Computer Science undergraduate student </>💻 with a minor in Economics📈
-#### - I have a strong interest in the interaction of Computer Science and Economics.🌐🧑🏻‍💻
-#### - I am interested in areas like Data Science, Computational Economics, Data Analysis and Machine Learning. 🤖⌨️
-#### - Currently, I am actively seeking opportunities for Master's or direct Ph.D. program 🕵🏻‍♀️🔎
-#### - For more informarion about me, please check my website: [ZahraKhatibi.top](https://zahrakhatibi.top/)
-#### - To reach me, you can email me at: Zahrakhatibiiii@gmail.com
+- #### I am a final-year Computer Science undergraduate student </>💻 with a minor in Economics📈
+- #### I have a strong interest in the interaction of Computer Science and Economics.🌐🧑🏻‍💻
+- #### I am interested in areas like Data Science, Computational Economics, Data Analysis and Machine Learning. 🤖⌨️
+- #### Currently, I am actively seeking opportunities for Master's or direct Ph.D. program 🕵🏻‍♀️🔎
+- #### For more informarion about me, please check my website: [ZahraKhatibi.top](https://zahrakhatibi.top/)
+- #### To reach me, you can email me at: Zahrakhatibiiii@gmail.com
 
 ## Summary of My GitHub Activity:
 
