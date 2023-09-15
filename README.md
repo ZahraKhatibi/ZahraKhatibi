@@ -23,6 +23,5 @@ ps: Jupiter notebooks are all in Python3.
 <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="160" />
 
 ### After Deadline:
-
 <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" />
 
