@@ -7,10 +7,9 @@
 ## About Me:
 
 
-- #### I am a final-year Computer Science undergraduate student </>💻 with a minor in Economics📈
-- #### I have a strong interest in the interaction of Computer Science and Economics.🌐🧑🏻‍💻
+- #### I am a first-year Master's student in the field of Data Science for Economics </>💻📈
+- #### My Bachelor's degree is in Computer Science with a minor in Economics 🌐🧑🏻‍💻
 - #### I am interested in areas like Data Science, Computational Economics, Data Analysis and Machine Learning. 🤖⌨️
-- #### Currently, I am actively seeking opportunities for Master's or direct Ph.D. program 🕵🏻‍♀️🔎
 - #### For more informarion about me, please check my website: [ZahraKhatibi.top](https://zahrakhatibi.top/)
 - #### To reach me, you can email me at: Zahrakhatibiiii@gmail.com
 
